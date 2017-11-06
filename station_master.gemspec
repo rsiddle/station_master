@@ -27,5 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "webmock", "~> 1.19"
 
   spec.add_runtime_dependency "multi_json", "~> 1.10"
-  spec.add_runtime_dependency "activesupport", "~> 4.1"
+  spec.add_runtime_dependency "activesupport", "~> 5.0"
 end
